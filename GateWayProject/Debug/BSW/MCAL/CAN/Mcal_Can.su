@@ -1,0 +1,11 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../BSW/MCAL/CAN/Mcal_Can.c:18:21:Can_GetHwUnit	16	static
+../BSW/MCAL/CAN/Mcal_Can.c:26:13:Can_EnableClock	16	static
+../BSW/MCAL/CAN/Mcal_Can.c:33:13:Can_ConfigureGpio	16	static
+../BSW/MCAL/CAN/Mcal_Can.c:44:6:Can_Init	32	static
+../BSW/MCAL/CAN/Mcal_Can.c:92:16:Can_Write	24	static
+../BSW/MCAL/CAN/Mcal_Can.c:122:16:Can_Read	16	static
+../BSW/MCAL/CAN/Mcal_Can.c:132:16:Can_GetStatus	16	static
+../BSW/MCAL/CAN/Mcal_Can.c:138:16:Can_SetBaudrate	24	static
+../BSW/MCAL/CAN/Mcal_Can.c:154:6:CAN1_RX0_IRQHandler	16	static
+../BSW/MCAL/CAN/Mcal_Can.c:178:6:CAN1_TX_IRQHandler	16	static

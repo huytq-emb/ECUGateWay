@@ -1,0 +1,12 @@
+../BSW/MCAL/ADC/Mcal_Adc.c:13:21:Adc_GetHwUnit	16	static
+../BSW/MCAL/ADC/Mcal_Adc.c:21:13:Adc_EnableClock	16	static
+../BSW/MCAL/ADC/Mcal_Adc.c:34:13:Adc_ConfigureTimer2	16	static
+../BSW/MCAL/ADC/Mcal_Adc.c:44:13:Adc_ConfigureDma	16	static
+../BSW/MCAL/ADC/Mcal_Adc.c:63:16:Adc_Init	24	static
+../BSW/MCAL/ADC/Mcal_Adc.c:137:16:Adc_SetupResultBuffer	16	static
+../BSW/MCAL/ADC/Mcal_Adc.c:153:6:Adc_StartGroupConversion	24	static
+../BSW/MCAL/ADC/Mcal_Adc.c:169:6:Adc_StopGroupConversion	24	static
+../BSW/MCAL/ADC/Mcal_Adc.c:187:16:Adc_ReadGroup	24	static
+../BSW/MCAL/ADC/Mcal_Adc.c:220:16:Adc_GetGroupStatus	24	static
+../BSW/MCAL/ADC/Mcal_Adc.c:244:16:Adc_EnableHardwareTrigger	24	static
+../BSW/MCAL/ADC/Mcal_Adc.c:262:16:Adc_DisableHardwareTrigger	24	static

@@ -1,0 +1,10 @@
+../BSW/MCAL/Dio/Mcal_Dio.c:12:22:Dio_GetPort	3
+../BSW/MCAL/Dio/Mcal_Dio.c:20:13:Dio_EnableClock	13
+../BSW/MCAL/Dio/Mcal_Dio.c:43:16:Dio_Init	13
+../BSW/MCAL/Dio/Mcal_Dio.c:95:16:Dio_WriteChannel	9
+../BSW/MCAL/Dio/Mcal_Dio.c:125:15:Dio_ReadChannel	9
+../BSW/MCAL/Dio/Mcal_Dio.c:150:16:Dio_WritePort	2
+../BSW/MCAL/Dio/Mcal_Dio.c:165:19:Dio_ReadPort	2
+../BSW/MCAL/Dio/Mcal_Dio.c:180:16:Dio_WriteChannelGroup	3
+../BSW/MCAL/Dio/Mcal_Dio.c:198:19:Dio_ReadChannelGroup	3
+../BSW/MCAL/Dio/Mcal_Dio.c:213:16:Dio_FlipChannel	8
